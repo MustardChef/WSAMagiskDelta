@@ -3,11 +3,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/68516357/224510073-69690d94-0104-4ef3-917c-353b6e161504.png" width="50%"/>
 
 #### Windows Subsystem For Android™ (MagiskOnWSA) with Google Play Services and [Magisk Delta](https://github.com/HuskyDG/magisk-files) 
-
-[<img src="https://invidget.switchblade.xyz/2thee7zzHZ" style="width: 400px;"/>](https://discord.gg/2thee7zzHZ)
+[<img src="https://invidget.switchblade.xyz/2thee7zzHZ" style="width: 300px;"/>](https://discord.gg/2thee7zzHZ)
 
 </br>
-
+</br>
 
 <details>     
    <summary><h4> &nbsp; ⚠️ Forking Information ⚠️<h4></summary>

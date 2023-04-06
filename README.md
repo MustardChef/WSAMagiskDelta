@@ -5,6 +5,7 @@
 #### Windows Subsystem For Android™ (MagiskOnWSA) with Google Play Services and [Magisk Delta](https://github.com/HuskyDG/magisk-files) 
 [<img src="https://invidget.switchblade.xyz/2thee7zzHZ" style="width: 375px;"/>](https://discord.gg/2thee7zzHZ)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0K08AC)
 </br>
 </br>
 

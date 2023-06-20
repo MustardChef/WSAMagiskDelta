@@ -3,7 +3,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/68516357/224510073-69690d94-0104-4ef3-917c-353b6e161504.png" width="50%"/>
 
 #### Windows Subsystem For Android™ (MagiskOnWSA) with Google Play Services and [Magisk Delta](https://github.com/HuskyDG/magisk-files) 
-[<img src="https://invidget.switchblade.xyz/2thee7zzHZ" style="width: 375px;"/>](https://discord.gg/2thee7zzHZ)
+[<img align="right" src="https://github.com/MustardChef/WSABuilds/assets/68516357/3e117927-6ea1-4b51-9059-5b9cfa264b27" />](https://discord.gg/2thee7zzHZ) 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0K08AC)
 </br>

@@ -5,7 +5,7 @@
 
 # As Magisk Delta has not gotten an update in many months, I have decided to stop uploading new WSA builds until a new update for Magisk Delta is provided
 # Please use the Magisk Builds in the [WSABuilds](https://github.com/MustardChef/WSABuilds) repo in the meantime
-# However, if for any reason that you need a WSA build with Magisk Delta, please open and issue and I will be happy to provide.
+# However, if for any reason that you need a WSA build with Magisk Delta, please open and issue in this repo and I will be happy to provide.
 
 
 </br>

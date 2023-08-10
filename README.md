@@ -1,18 +1,4 @@
 # WSABuilds: Magisk Delta &nbsp; &nbsp; <img src="https://img.shields.io/github/downloads/MustardChef/WSAMagiskDelta/total?label=Total%20Downloads&style=for-the-badge"/> &nbsp; 
-
-</br>
-</br>
-
-# As Magisk Delta has not gotten an update in many months, I have decided to stop uploading new WSA builds until a new update for Magisk Delta is provided
-# Please use the Magisk Builds in the [WSABuilds](https://github.com/MustardChef/WSABuilds) repo in the meantime
-# However, if for any reason that you need a WSA build with Magisk Delta, please open and issue in this repo and I will be happy to provide.
-
-
-</br>
-</br>
-</br>
-</br>
-
 <img align="left" src="https://user-images.githubusercontent.com/68516357/224510073-69690d94-0104-4ef3-917c-353b6e161504.png" width="50%"/>
 
 #### Windows Subsystem For Android™ (MagiskOnWSA) with Google Play Services and [Magisk Delta](https://github.com/HuskyDG/magisk-files) 

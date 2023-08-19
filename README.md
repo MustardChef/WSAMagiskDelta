@@ -25,8 +25,8 @@
   <tr>
     <td><img src="https://img.shields.io/badge/Latest%20Builds-%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-blue?style=for-the-badge" alt="Image" width="186" height="28"></td>
     <td>Follows the "WSA Retail" or "Insider Fast Channel" <br><br> Builds are generally more stable than the builds in the "WSA Preview Program Channel" </td>
-    <td>2306.40000.4.0<br></td>
-    <td>Builds Released: 19/07/2023</td>
+    <td>2307.40000.5.0<br></td>
+    <td>Builds Released: 19/08/2023</td>
   </tr>
   <tr>
     <td colspan="4"><h4>It is recommend to check this table regularly to see if there is a newer update avaliable for WSA for the Builds<h4><br></td>
@@ -42,8 +42,8 @@
 
 |****Operating System****|****Download Page****|
 |----------|-----------| 
-|<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" style="width: 200px;"/> | [![win11down](https://img.shields.io/badge/Download%20Latest%20Build-Windows%2011%20x64-blue?style=for-the-badge&logo=windows11)](https://github.com/MustardChef/WSAMagiskDelta/releases/tag/Windows_11_2306.40000.4.0) <br /> [![win11down](https://img.shields.io/badge/Download%20Latest%20Build-Windows%2011%20arm64-blue?style=for-the-badge&logo=windows11)](https://github.com/MustardChef/WSAMagiskDelta/releases/tag/Windows_11_2306.40000.4.0_arm64)|![image](https://user-images.githubusercontent.com/68516357/213565690-f2f3710b-7673-4ac1-b8b4-0c6f58028c6f.png)
-|<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" style="width: 200px;"/> | [![win10down](https://img.shields.io/badge/Download%20Latest%20Build-Windows%2010%20x64-blue?style=for-the-badge&logo=windows)](https://github.com/MustardChef/WSAMagiskDelta/releases/tag/Windows_10_2306.40000.4.0)|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" style="width: 200px;"/> | [![win11down](https://img.shields.io/badge/Download%20Latest%20Build-Windows%2011%20x64-blue?style=for-the-badge&logo=windows11)](https://github.com/MustardChef/WSAMagiskDelta/releases/tag/Windows_11_2307.40000.5.0) <br /> [![win11down](https://img.shields.io/badge/Download%20Latest%20Build-Windows%2011%20arm64-blue?style=for-the-badge&logo=windows11)](https://github.com/MustardChef/WSAMagiskDelta/releases/tag/Windows_11_2307.40000.5.0_arm64)|![image](https://user-images.githubusercontent.com/68516357/213565690-f2f3710b-7673-4ac1-b8b4-0c6f58028c6f.png)
+|<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" style="width: 200px;"/> | [![win10down](https://img.shields.io/badge/Download%20Latest%20Build-Windows%2010%20x64-blue?style=for-the-badge&logo=windows)](https://github.com/MustardChef/WSAMagiskDelta/releases/tag/Windows_10_2307.40000.5.0)|
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.icons8.com/color/240/null/windows-11.png" style="width: 50px;"/> <img src="https://img.icons8.com/color/240/null/windows-10.png" style="width: 50px;"/>  |[![windownold](https://img.shields.io/badge/Windows%2010%2F11-Older%20Builds-red?style=for-the-badge)](https://github.com/MustardChef/WSAMagiskDelta/blob/master/OldBuilds.md)|
 ||[<img src="https://img.shields.io/badge/Magisk%20Delta-Changelog-FF7920?style=for-the-badge&logoColor=white&logo=github" />](https://github.com/HuskyDG/magisk-files/blob/main/note.md)|
 

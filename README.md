@@ -19,6 +19,7 @@
     <th>Differences:</th>
     <th>Current Version:</th>
     <th>Date:</th>
+    <th>Update Frequency</th>
   </tr>
 </thead>
 <tbody>
@@ -27,6 +28,7 @@
     <td>Follows the "WSA Retail" or "Insider Fast Channel" <br><br> Builds are generally more stable than the builds in the "WSA Preview Program Channel" </td>
     <td>2307.40000.5.0<br></td>
     <td>Builds Released: 19/08/2023</td>
+    <td>Updated Once a Month</td>
   </tr>
   <tr>
     <td colspan="4"><h4>It is recommend to check this table regularly to see if there is a newer update avaliable for WSA for the Builds<h4><br></td>
